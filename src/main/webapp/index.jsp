@@ -571,7 +571,7 @@
         <section class="hero" role="img" aria-label="Hero banner">
             <div class="container">
                 <h1>Holiday Collection — Premium Picks</h1>
-                <p>Tones fashion, technology and accessories — curated just for you. Enjoy limited-time deals and free shipping on selected items.</p>
+                <p>Hello World, technology and accessories — curated just for you. Enjoy limited-time deals and free shipping on selected items.</p>
                 <div>
                     <button class="btn btn-primary" id="shopNow">Shop Now <em class="fas fa-arrow-right"></em></button>
                     <button class="btn btn-ghost" id="exploreDeals">Explore Deals</button>

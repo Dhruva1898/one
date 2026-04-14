@@ -571,7 +571,7 @@
         <section class="hero" role="img" aria-label="Hero banner">
             <div class="container">
                 <h1>Myntra Summer Sale — Premium Picks</h1>
-                <p>Myntra Friday sale for clothing and accessories — curated just for you. Enjoy limited-time deals and free shipping on selected items.</p>
+                <p>FLIPKART Friday sale for clothing and accessories — curated just for you. Enjoy limited-time deals and free shipping on selected items.</p>
                 <div>
                     <button class="btn btn-primary" id="shopNow">Shop Now <em class="fas fa-arrow-right"></em></button>
                     <button class="btn btn-ghost" id="exploreDeals">Explore Deals</button>
